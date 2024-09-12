@@ -27,7 +27,7 @@ export const RecipeListPage = ({ clickFn }) => {
 
   return (
     <Center minHeight={"100vh"} flexDir="column" bg={"blue.300"} gap={6}>
-      <Heading paddingTop={5}>Recipe App</Heading>
+      <Heading paddingTop={5}>Recipe App Version 2</Heading>
       <Flex flexDir={"column"} minW={275} w={["80vw", 500]} gap={2}>
         <Input
           type="text"
